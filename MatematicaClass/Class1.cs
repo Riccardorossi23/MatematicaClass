@@ -7,7 +7,7 @@ namespace MatematicaClass
         public static double Somma(double num1, double num2)
         {
             // double Somma = num1 + num2;
-            return num1 + num2;
+            return num1 +num2;
         }
         public static double Sottrazione(double num1, double num2)
         {

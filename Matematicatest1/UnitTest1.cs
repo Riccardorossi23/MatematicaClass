@@ -9,9 +9,9 @@ namespace Matematicatest1
         [TestMethod]
            public static void TestSomma()
            {
-                double num1 = 3;
+                double num1 = 4;
                 double num2 = 4;
-                double somma_aspettata = 7;
+                double somma_aspettata = 8;
                 double somma = Operazioni.Somma(num1, num2);
                 Assert.AreEqual(somma_aspettata, somma);
            }
